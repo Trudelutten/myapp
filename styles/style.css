@@ -5,7 +5,7 @@ h1 { color: rgb(4, 111, 119);; text-align: center; }
   
 p { color:  rgb(4, 111, 119); font-family: verdana; font-size: 20px; align-content: "center";}
 
-ul { list-style-type: circle; padding: 25px 50% 75px 100px; margin: 0; font-family: verdana; font-size: 20px; }
+ul { color:  rgb(4, 111, 119); list-style-type: circle; padding: 25px 50% 75px 100px; margin: 0; font-family: verdana; font-size: 20px; }
 
 div.al{
     margin:auto;
